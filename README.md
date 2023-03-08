@@ -1,2 +1,0 @@
-# shop.github.io
-shopping 
